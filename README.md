@@ -18,5 +18,4 @@ This portal manages the campus placement process, allowing Administrators (TPOs)
 ## 📂 How to Run
 1. Clone the repository to your `htdocs` folder.
 2. Import the `placement_db.sql` file into your MySQL database.
-3. Run the project at `http://localhost/placement_portal`.
-4.
+3. Run the project at `http://localhost/Student_placement_portal`.
